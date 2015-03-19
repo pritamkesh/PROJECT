@@ -1,3 +1,11 @@
+/* This is source code of Bank Account Registration.
+* Source Code written by Pritam Kesh.
+* E-mail : pritamkesh.summercode@gmail.com
+*
+* To report any bugs please send me an e-mail.
+* Tips are welcome.
+*
+*/
 import java.io.*;
 import java.util.*;
 class TotalSecurity
@@ -9,7 +17,7 @@ class TotalSecurity
 		System.out.println("           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^              ");
 		System.out.println("   <<<<<<<<<<<<<<<<<<<<<<< TOTAL-SECURITY ANTIVIRUS>>>>>>>>>>>>>>>>>>>>>>>>>        ");
 		System.out.println("           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^            ");
-		System.out.println("                                              -TOTAL-SECURITY © 2014");
+		System.out.println("                                              -TOTAL-SECURITY Â© 2014");
 		System.out.println("******************************************************************");
 		System.out.println();
 		System.out.println();
